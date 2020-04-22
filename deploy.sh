@@ -6,6 +6,14 @@
 # If a command fails then the deploy stops
 set -e
 
+#pointing git to public folder
+git submodule add -f -b master https://github.com/MehdiSoleimanifar/MehdiSoleimanifar.github.io.git public
+
+#pulling to local folder 
+
+git pull --recurse-submodule && git submodule update --recursive
+
+##########
 printf "\033[0;32m Deploying updates to GitHub:\033[0m\n"
 
 # Build the project.
