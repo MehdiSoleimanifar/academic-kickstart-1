@@ -10,8 +10,11 @@ set -e
 git submodule add -f -b master https://github.com/MehdiSoleimanifar/MehdiSoleimanifar.github.io.git public
 
 #pulling to local folder 
+git add .
+git commit -m "Initial commit"
+git push -u origin master
 
-git pull --recurse-submodule && git submodule update --recursive
+#git pull --recurse-submodule && git submodule update --recursive
 
 ##########
 printf "\033[0;32m Deploying updates to GitHub:\033[0m\n"
