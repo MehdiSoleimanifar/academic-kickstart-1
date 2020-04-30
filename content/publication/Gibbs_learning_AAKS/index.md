@@ -38,7 +38,7 @@ url_pdf: http://arxiv.org/pdf/2004.07266.pdf
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-#url_slides: '/pdf/talks/counting_without_sampling_caltech.pdf'
+#url_slides: ''
 #url_source: '#'
 #url_video: '#'
 
