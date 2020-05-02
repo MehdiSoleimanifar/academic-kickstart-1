@@ -29,7 +29,7 @@ education:
   - course: PhD Candidate in Physics
     institution: MIT
     year:  
-  - course: Bsc in Physics
+  - course: BSc in Physics
     institution: Sharif University, Iran
     year: 2016
   - course: BSc in Electrical Engineering
