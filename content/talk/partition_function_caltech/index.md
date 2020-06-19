@@ -39,8 +39,8 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
-url_slides: "/pdf/talks/counting_without_sampling_caltech.pdf"
+url_pdf: "/pdf/talks/counting_without_sampling_caltech.pdf"
+url_slides: ""
 url_video: "https://www.youtube.com/watch?v=wQUvv5blp4k"
 
 # Markdown Slides (optional).
