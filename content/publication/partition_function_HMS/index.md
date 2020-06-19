@@ -5,7 +5,7 @@ authors:
 - Saeed Mehraban
 - admin
 #date: "2013-07-01T00:00:00Z"
-doi: ""
+doi: "10.1145/3357713.3384322"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-10-20T00:00:00Z"
@@ -30,7 +30,7 @@ summary:   Symposium on Theory of Computing (STOC) 2020
 #featured: false
 
 links:
-- name: arXiv 
+- name: arXiv
   url: https://arxiv.org/abs/1910.09071
 url_pdf: http://arxiv.org/pdf/1910.09071.pdf
 #url_code: '#'
@@ -39,10 +39,10 @@ url_pdf: http://arxiv.org/pdf/1910.09071.pdf
 #url_project: ''
 url_slides: /pdf/talks/counting_without_sampling_caltech.pdf
 #url_source: '#'
-#url_video: '#'
+url_video: https://www.youtube.com/watch?v=wQUvv5blp4k
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 #image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   #focal_point: ""
@@ -63,6 +63,3 @@ url_slides: /pdf/talks/counting_without_sampling_caltech.pdf
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-
-

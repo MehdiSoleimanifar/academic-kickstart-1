@@ -3,15 +3,15 @@ title: 'Counting without Sampling: Approximation Algorithms for Quantum Many-Bod
 #event: IQI Seminar
 #event_url: https://example.org
 
-location: IQI Seminar, Caltech
+location: IQI Seminar, Caltech - Perimeter Institute Quantum Discussions - STOC2020
 
 summary:  
 abstract: "Basic statistical properties of quantum many-body systems in thermal equilibrium including the free energy, entropy, and average energy can be obtained from the partition function. This talk will focus on the problem of estimating the partition function which has been the subject of various numerical and theoretical studies both in statistical physics and computer science. It is well known that this problem is computationally hard in the worst case. In this talk, I will present a quasi-polynomial time algorithm that estimates the partition function of quantum many-body systems above the phase transition point.
 
 The algorithm extrapolates the solution at high temperatures where the problem is easy to low temperatures where finding the solution is harder. The running time of this algorithm relies on the locus of the complex zeros of the partition function. I will talk about cases where we can locate these complex zeros. I will also discuss the relation between other signatures of the phase transition such as the exponential decay of correlations and the locus of these zeros.
 
-This is based on joint work with Aram Harrow and Saeed Mehraban."
- 
+This is based on joint work with Aram Harrow and Saeed Mehraban https://arxiv.org/abs/1910.09071."
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-07-23T15:00:00Z"
@@ -41,7 +41,7 @@ links:
 url_code: ""
 url_pdf: "/pdf/talks/counting_without_sampling_caltech.pdf"
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=wQUvv5blp4k"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

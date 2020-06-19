@@ -1,12 +1,12 @@
 ---
 title: 'Power of Quantum Computers'
-#event: 
+#event:
 event_url: https://sst-csep.cnsi.ucsb.edu
 summary:  
 location: Science Outreach for High School Students. School for Scientific Thought (SST), UCSB
 
 abstract: ""
- 
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2019-10-19"
@@ -34,7 +34,7 @@ links:
 url_code: ""
 url_pdf: "/pdf/talks/webise_version_power_of_QC.pdf"
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=7RiqMl3Pvss&t=29s"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
