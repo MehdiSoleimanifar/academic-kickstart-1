@@ -1,5 +1,5 @@
 #!/bin/sh
- 
+
 
 # If a command fails then the deploy stops
 set -e
@@ -8,7 +8,7 @@ set -e
 git submodule add -f -b master https://github.com/MehdiSoleimanifar/MehdiSoleimanifar.github.io.git public
 
 #pulling to local folder
-git add .
+git add . --all
 git commit -m "Initial commit"
 git push -u origin master
 
