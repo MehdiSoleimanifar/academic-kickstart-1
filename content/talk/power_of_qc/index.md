@@ -32,7 +32,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "/pdf/talks/webise_version_power_of_QC.pdf"
+url_pdf: "/pdf/talks/power_of_QC.pdf"
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=7RiqMl3Pvss&t=29s"
 
