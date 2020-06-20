@@ -1,7 +1,5 @@
 #!/bin/sh
-
-# amended by isabellhl.github.io
-# on 7 Oct 2019
+ 
 
 # If a command fails then the deploy stops
 set -e
@@ -9,7 +7,7 @@ set -e
 #pointing git to public folder
 git submodule add -f -b master https://github.com/MehdiSoleimanifar/MehdiSoleimanifar.github.io.git public
 
-#pulling to local folder 
+#pulling to local folder
 git add .
 git commit -m "Initial commit"
 git push -u origin master
