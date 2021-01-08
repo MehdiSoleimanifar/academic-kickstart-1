@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Physics 
+role: PhD Student in Physics
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
- 
+
 #interests:
 #- Quantum information
 #- Computational Linguistics
@@ -35,7 +35,7 @@ education:
   - course: BSc in Electrical Engineering
     institution: Sharif University, Iran
     year: 2016
-   
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -72,4 +72,4 @@ user_groups:
 
 I am a PhD student in the [Center for Theoretical Physics](http://ctp.lns.mit.edu) at [MIT](http://www.mit.edu) supervised by [Aram Harrow](http://www.mit.edu/~aram/).
 
-I am interested in various aspects of quantum information and quantum computing. The current focus of my research is simulating, learning, testing, and generally understanding properties of quantum many-body systems using tools developed in computer science and quantum information.
+I am interested in the interface of quantum information, theoretical computer science, and many-body physics. 

@@ -1,20 +1,22 @@
 ---
-title: 'Power of Quantum Computers'
+title: "From communication complexity to an entanglement spread area law in the ground state of gapped local Hamiltonians"
 #event:
-event_url: https://sst-csep.cnsi.ucsb.edu
-summary:  
-location: Science Outreach for High School Students. School for Scientific Thought (SST), UCSB
+#event_url:
+#summary:
+location: IQC CS Seminar, Waterloo
 
-abstract: ""
+abstract: "In this talk, I will discuss a connection between two seemingly different problems. The first problem involves characterizing the properties of entanglement in the ground state of gapped local Hamiltonians, which is a central topic in quantum many-body physics. The second problem is on the quantum communication complexity of testing bipartite states with EPR assistance, a well-known question in quantum information theory. I will present a communication protocol for testing ground states and show how its communication complexity reveals a new structural property for the ground state entanglement, namely that gapped ground states possess limited entanglement spread across any cut, exhibiting an area law behavior. The entanglement spread is a measure of how spread out the Schmidt coefficients are across a bipartite cut in a given state.  
+
+While most of the previous properties of gapped ground states are only established for 1D geometries, this construction applies to any interaction graph with an improved bound for the special case of lattices. On the technical side, our work uses recent advances in Hamiltonian simulation algorithms along with quantum phase estimation and quantum expanders to give a new construction for an approximate ground space projector (AGSP). This is based on joint work with Anurag Anshu and Aram Harrow"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-10-19"
+date: "2020-12-15"
 #date_end: "2030-06-01T15:00:00Z"
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2019-10-19T00:00:00Z"
+publishDate: "2020-12-15T00:00:00Z"
 
 authors: []
 tags: []
@@ -32,9 +34,10 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: "/pdf/talks/power_of_QC.pdf"
+#url_pdf: "/pdf/talks/talk_spread_IQC.pdf"
+url_pdf: "/pdf/entanglement_spread_IQC.pdf"
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=7RiqMl3Pvss&t=29s"
+url_video: ""
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

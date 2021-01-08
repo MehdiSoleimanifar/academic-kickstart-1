@@ -3,7 +3,7 @@ title: 'Counting without Sampling: Approximation Algorithms for Quantum Many-Bod
 #event: IQI Seminar
 #event_url: https://example.org
 
-location: IQI Seminar, Caltech - Perimeter Institute Quantum Discussions - STOC2020
+location: IQI Seminar, Caltech - Perimeter Institute Quantum Discussions - STOC2020 - Simons Institute Geometry of Polynomials Reunion
 
 summary:  
 abstract: "Basic statistical properties of quantum many-body systems in thermal equilibrium including the free energy, entropy, and average energy can be obtained from the partition function. This talk will focus on the problem of estimating the partition function which has been the subject of various numerical and theoretical studies both in statistical physics and computer science. It is well known that this problem is computationally hard in the worst case. In this talk, I will present a quasi-polynomial time algorithm that estimates the partition function of quantum many-body systems above the phase transition point.
